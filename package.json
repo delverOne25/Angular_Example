@@ -1,0 +1,22 @@
+{
+  "name": "learn-angular",
+  "version": "1.0.0",
+  "description": "angular learn",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/delverOne25/Angular_Example.git"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "author": "delverOne25",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/delverOne25/Angular_Example/issues"
+  },
+  "homepage": "https://github.com/delverOne25/Angular_Example#readme"
+}
